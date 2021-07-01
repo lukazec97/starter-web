@@ -9,6 +9,6 @@ Sample website with plenty of files for demos
 Git tutorial, a samples to provide materials for git demo.
 
 ## Deployment
-Deployment could be on any web server
+Deployment could be on any web server, or even localhost
 
 ## How to contribute
